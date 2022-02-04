@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Aerial VR
+
+## Media
+
+### Title
+panorama_FD569605_ECBC_49F7_41A6_1546BC7346EA.label = copy-2
